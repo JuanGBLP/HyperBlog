@@ -5,3 +5,5 @@ Juan tiene 19  años y nacio en Argentina
 Hoy hablaremos de si historia
 
 fiel incha de estudiantes
+
+Hoy estamos estudiando Gitbash
